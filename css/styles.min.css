@@ -137,7 +137,7 @@ ul li{
     list-style:none
 }
 section .header{
-    padding-bottom:30px
+    padding-bottom:10px
 }
 .section-padding{
     padding:40px 0
@@ -444,7 +444,7 @@ header .member-actions{
     width:80%
 }
 #intro{
-    padding-top:40px
+    padding-top:30px
 }
 #intro img{
     width:100%;
