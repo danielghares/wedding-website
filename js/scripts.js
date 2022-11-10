@@ -74,6 +74,7 @@ $(document).ready(function () {
     $('.nav-toggle').click(function () {
         $(this).toggleClass('active');
         $('.header-nav').toggleClass('open');
+        $("#test").addClass('btn-fixed');
         event.preventDefault();
     });
     /* When user clicks a link */
