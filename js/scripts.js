@@ -91,6 +91,7 @@ $(document).ready(function () {
 
             if (scroll >= 20) {
                 $('section.navigation').addClass('fixed');
+                $("#test").addClass('btn-fixed');
                 $('header').css({
                     "border-bottom": "none",
                     "padding": "35px 0"
@@ -103,6 +104,7 @@ $(document).ready(function () {
                 });
             } else {
                 $('section.navigation').removeClass('fixed');
+                $("#test").removeClass('btn-fixed');
                 $('header').css({
                     "border-bottom": "solid 1px rgba(255, 255, 255, 0.2)",
                     "padding": "50px 0"
