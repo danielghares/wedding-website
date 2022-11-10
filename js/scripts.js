@@ -74,7 +74,6 @@ $(document).ready(function () {
     $('.nav-toggle').click(function () {
         $(this).toggleClass('active');
         $('.header-nav').toggleClass('open');
-        $("#test").addClass('btn-fixed');
         event.preventDefault();
     });
     /* When user clicks a link */
@@ -92,7 +91,6 @@ $(document).ready(function () {
 
             if (scroll >= 20) {
                 $('section.navigation').addClass('fixed');
-                $("#test").addClass('btn-fixed');
                 $('header').css({
                     "border-bottom": "none",
                     "padding": "35px 0"
