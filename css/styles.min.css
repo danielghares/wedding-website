@@ -66,17 +66,17 @@ h5{
     background-color:transparent
 }
 .btn-fill{
-    color:#fff;
+    color:transparent;
     border:solid 2px #fff;
     -moz-border-radius:40px;
     -webkit-border-radius:40px;
     border-radius:40px;
     display:inline-block;
     text-transform:uppercase;
-    background-color:#8bc49e
+    background-color:#transparent
 }
 .btn-fill:hover,.btn-fill:focus{
-    color:#8bc49e;
+    color:#fff;
     background-color:#fff;
     border:solid 2px #fff;
 }
