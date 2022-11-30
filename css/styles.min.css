@@ -108,7 +108,7 @@ section.features,section.rsvp,section.blog{
     margin:0
 }
 a{
-    color:#fff;
+    color:#8bc49e;
     -webkit-transition-timing-function:ease;
     transition-timing-function:ease;
     -webkit-transition-duration:200ms;
@@ -117,7 +117,7 @@ a{
     transition-property:color, border-color, background-color
 }
 a:hover,a:focus{
-    color:#8bc49e;
+    color:#000000;
     text-decoration:none
 }
 body{
