@@ -20,7 +20,7 @@
 /* Responsive nav kicks in */
 @media screen and (max-width: 991px) {
     .video-overlay{
-        visibility: visible;      
+        visibility: visible !important;      
     }
     header {
         width: 90%;
