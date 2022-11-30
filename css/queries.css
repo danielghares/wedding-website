@@ -27,9 +27,7 @@
     .hero .hero-content {
         padding-top: 50%;
     }
-    .video-overlay{
-        visibility: visible;      
-    }
+
     .header-nav {
         position: fixed;
         background-color: #8bc49e;
@@ -290,7 +288,9 @@
     footer .footer-links {
         margin: 50px 0 50px 0;
     }
-
+    video-overlay{
+        visibility: visible;      
+    }
 }
 
 @media screen and (max-width: 480px) {
