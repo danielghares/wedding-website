@@ -27,7 +27,9 @@
     .hero .hero-content {
         padding-top: 50%;
     }
-
+    .video-overlay{
+        visibility: visible;      
+    }
     .header-nav {
         position: fixed;
         background-color: #8bc49e;
