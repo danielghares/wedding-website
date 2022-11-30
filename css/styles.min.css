@@ -750,7 +750,8 @@ header .member-actions{
     color:#ffffff
 }
 video-overlay{
-    visibility: hidden   
+    visibility: hidden;
+    height: 100%
 }
 #map-canvas{
     height:500px;
