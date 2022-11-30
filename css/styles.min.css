@@ -749,7 +749,7 @@ header .member-actions{
 #video-content p{
     color:#ffffff
 }
-video-overlay{
+#video-overlay{
     visibility: hidden;
     height: 100%
 }
