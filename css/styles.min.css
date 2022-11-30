@@ -738,7 +738,7 @@ header .member-actions{
     padding-top:100px;
     position:relative;
     background:rgba(17,17,17,0.5);
-    text-align:center
+    text-align:center;
 }
 #video-content h5{
     color:#ffffff;
@@ -748,6 +748,9 @@ header .member-actions{
 }
 #video-content p{
     color:#ffffff
+}
+video-overlay{
+    visibility: hidden   
 }
 #map-canvas{
     height:500px;
