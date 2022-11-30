@@ -19,6 +19,9 @@
 
 /* Responsive nav kicks in */
 @media screen and (max-width: 991px) {
+    .video-overlay{
+        visibility: visible;      
+    }
     header {
         width: 90%;
         padding-left: 25px;
@@ -288,9 +291,7 @@
     footer .footer-links {
         margin: 50px 0 50px 0;
     }
-    video-overlay{
-        visibility: visible;      
-    }
+
 }
 
 @media screen and (max-width: 480px) {
